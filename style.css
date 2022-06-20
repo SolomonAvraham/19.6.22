@@ -1,0 +1,15 @@
+#tabel{
+border: 1px solid black;
+
+}
+#tableBody>tr,td{
+border: 1px solid black;
+
+}
+
+#tbodyTeacher{
+border: 1px solid black;
+}
+#tbodyTeacher>tr,td{
+border: 1px solid black;
+}
